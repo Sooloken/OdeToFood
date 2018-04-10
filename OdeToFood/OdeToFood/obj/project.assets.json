@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simon.plato\\Documents\\GitHub\\OdToFood\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectUniqueName": "C:\\Users\\simon.plato\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "projectName": "OdeToFood",
-      "projectPath": "C:\\Users\\simon.plato\\Documents\\GitHub\\OdToFood\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+      "projectPath": "C:\\Users\\simon.plato\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
       "packagesPath": "C:\\Users\\simon.plato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simon.plato\\Documents\\GitHub\\OdToFood\\OdeToFood\\OdeToFood\\obj\\",
+      "outputPath": "C:\\Users\\simon.plato\\Documents\\GitHub\\OdeToFood\\OdeToFood\\OdeToFood\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
